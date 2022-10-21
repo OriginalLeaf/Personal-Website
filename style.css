@@ -41,14 +41,7 @@ img {
 }
 
 .topnav #name {
-  padding: 14px 16px;
-  float: left;
-  color: #f2f2f2;
-  text-align: center;
-  font-size: 17px;
   font-weight: bold;
-  font-family: Arial, Helvetica, sans-serif;
-  background-color: #333;
 }
 
 .content_block {
@@ -118,3 +111,7 @@ img {
   padding-right: 10%;
 }
 
+.center_word {
+  width: 100%;
+  text-align: center;
+}
