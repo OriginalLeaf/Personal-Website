@@ -1,2 +1,2 @@
 # Personal-Website
-The source code fro my personal website.
+The source code for my personal website.
