@@ -66,9 +66,7 @@ img {
 }
 .col {
   display: table-cell;
-  padding: 10px;
-  padding-left: 20px;
-  padding-right: 20px;
+  padding: 20px;
   vertical-align: middle;
   margin: 10px;
 }
